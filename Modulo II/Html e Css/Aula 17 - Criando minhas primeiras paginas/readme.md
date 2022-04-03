@@ -1,5 +1,5 @@
 # Aula 17
-## Criando minhas primeiras 
+## Criando minhas primeiras páginas
 - [Página inicial](../index.html) 
 - [Exercício1](exercicio1.html) 
 - [Exercício2](exercicio2.html) 
