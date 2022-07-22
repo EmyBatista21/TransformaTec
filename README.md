@@ -1,2 +1,8 @@
-# Reposit髍io do Tranforma Tec
-## Meus exerc韈ios 
+# Tranforma Tec
+## Praticando exerc铆cios do Projeto
+- M贸dulo I - Algoritmos em Portugol
+- M贸dulo II - Html e Css
+- M贸dulo III - JavaScript
+- M贸dulo IV - ReactjS 
+- M贸dulo V - Java
+- M贸dulo VI - Banco de Dados SQL
